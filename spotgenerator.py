@@ -87,8 +87,3 @@ outputFile.close()
 print('Generated' + args[2] + '.')
 
 print('Done!')
-
-#open spotpageformat readonly
-#read line by line, stripping whitespace characters -> strip()
-#writeto args[2] file name, replacing when finding REPLACE_...
-#format html?
