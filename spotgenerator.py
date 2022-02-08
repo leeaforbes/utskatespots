@@ -54,8 +54,8 @@ for c in cons:
 imgsHTML = ''
 for i in imgs:
     imgsHTML += '<div class="image-container">'
-    imgsHTML += '<img src="' + i + '" class="image-inside-div">\n'
-    imgsHTML += '</div>'
+    imgsHTML += '<img src="' + i + '" class="image-inside-div">'
+    imgsHTML += '</div>\n'
 
 #read in the spot page format, copy it to output file
 formatFile = open('spotpageformat.html', 'r')
