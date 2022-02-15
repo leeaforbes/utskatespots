@@ -12,7 +12,9 @@ sometimes students studying
 
 gdc/night_curb.jpeg
 gdc/curb.jpeg
+gdc/3then2stair.jpeg
 gdc/ramp.jpeg
 gdc/night_wide.jpeg
 gdc/night_flat.jpeg
+gdc/ledges.jpeg
 gdc/flat.jpeg
