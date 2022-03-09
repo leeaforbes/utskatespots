@@ -1,0 +1,25 @@
+East Stadium
+eaststadium/stadiumflat.JPG
+eaststadium/multistair.JPG
+no_nighttime.png
+On the east side of DKR stadium
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d992.5502907245382!2d-97.73195717077054!3d30.284745156946286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd96ad7902aa38d4a!2zMzDCsDE3JzA1LjEiTiA5N8KwNDMnNTMuMSJX!5e1!3m2!1sen!2sus!4v1646864605012!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+1-6 multistair
+ramp by ticket booth
+several 3 stairs
+manny pad to drop (chain across)
+several ramps
+4 stair
+8 stair
+lit at night
+
+watch for cars on multistair
+
+eaststadium/threestairsnstuff.JPG
+eaststadium/ticketramp.JPG
+eaststadium/stairramp.JPG
+eaststadium/multistair.JPG
+eaststadium/chainmannydrop.JPG
+eaststadium/path.JPG
+eaststadium/stadiumflat.JPG
+eaststadium/stairstreet.JPG

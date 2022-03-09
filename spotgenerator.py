@@ -84,6 +84,6 @@ while(formatLine != '</body>'): #THIS MIGHT CHANGE!!!
 formatFile.close()
 outputFile.close()
 
-print('Generated' + args[2] + '.')
+print('Generated ' + args[2] + '.')
 
 print('Done!')
